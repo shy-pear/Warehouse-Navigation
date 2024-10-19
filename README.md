@@ -1,6 +1,6 @@
 # Warehouse Navigation
 ## Project Summary
-Value iteration and policy iteration are tested as potential solutions to warehouse navigation issues. An agent starts at a location, and has to navigate to pickup locations, and finally to the dropoff location. Two scenarios are tested:
+Value iteration and policy iteration are tested as potential solutions to warehouse navigation issues. An agent at a start location has to navigate to pickup locations and finally to the dropoff location. Two scenarios are tested:
 - One pickup location and one dropoff location
 - Two pickup locations and one dropoff locations
 ### Results:
