@@ -11,14 +11,14 @@ Optimal policy plot:
 
 Animation of robot navigating warehouse:
 
-<img width="545" alt="img2" src="https://github.com/user-attachments/assets/58bf3f88-e92a-48cd-9dda-0b867231dfa0">
+<img width="582" alt="img5" src="https://github.com/user-attachments/assets/51e218be-c740-4174-89d9-9aff5e39e9b6">
 
 
 #### Two pickup locations:
 Optimal policy plots:
 - No items picked up
 
-<img width="545" alt="img3" src="https://github.com/user-attachments/assets/a2ab30d7-9969-4190-92f4-7c61903026bc">
+<img width="543" alt="img2" src="https://github.com/user-attachments/assets/443493d2-231e-410c-bfe9-158baaa5496b">
 
 - First item picked up
 
